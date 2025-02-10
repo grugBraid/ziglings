@@ -60,5 +60,5 @@ pub fn main() void {
     //
     // Try uncommenting this line and playing around with it
     // (copy it, move it) to see what it does:
-    ///@compileLog("Count at compile time: ", count);
+    //@compileLog("Count at compile time: ", count);
 }
